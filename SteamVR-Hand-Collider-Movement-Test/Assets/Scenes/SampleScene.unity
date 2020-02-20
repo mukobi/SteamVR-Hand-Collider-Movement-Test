@@ -259,7 +259,7 @@ GameObject:
   - component: {fileID: 479254614}
   - component: {fileID: 479254616}
   m_Layer: 0
-  m_Name: PlayerMovementRoot
+  m_Name: PlatformMovementRoot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
