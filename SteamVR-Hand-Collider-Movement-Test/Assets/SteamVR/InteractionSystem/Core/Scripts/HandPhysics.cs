@@ -25,6 +25,8 @@ namespace Valve.VR.InteractionSystem
 
         // distance at which hand will teleport back to controller
         const float handResetDistance = 0.6f;
+        //const float handResetDistance = 0.0f;  // modified to keep collider from lagging behind fast hand
+
 
         const float collisionReenableClearanceRadius = 0.1f;
 
