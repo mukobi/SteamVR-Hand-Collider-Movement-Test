@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.steamvrhandcollidermovementtest.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Gabe\\Documents\\GitHub\\SteamVR-Hand-Collider-Movement-Test\\SteamVR-Hand-Collider-Movement-Test\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "SteamVR-Hand-Collider-Movement-Test [Testing]"
+        }
+      }
+    }
+  ]
+}
