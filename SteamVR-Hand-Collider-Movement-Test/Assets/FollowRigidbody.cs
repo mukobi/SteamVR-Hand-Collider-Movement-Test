@@ -6,7 +6,7 @@ public class FollowRigidbody : MonoBehaviour
 {
     public Rigidbody target;
 
-    private void FixedUpdate()
+    private void Update()
     {
         transform.position = target.transform.position;
     }

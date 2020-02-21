@@ -12,7 +12,7 @@ public class MovePositionForward : MonoBehaviour
         rb = GetComponent<Rigidbody>();
     }
 
-    void FixedUpdate()
+    void Update()
     {
         rb.MovePosition(transform.position + transform.forward * speedMetersPerSec * Time.fixedDeltaTime);
     }
